@@ -1,10 +1,8 @@
-Sure — here’s a clean, professional **README.md** template you can adapt for your GitHub repo:
-
----
-
 # 🚀 Edrak Knowledge Explorer
 
 A full-stack AI-powered platform for **document understanding**, **knowledge graph visualization**, and **intelligent chat interaction** — built with **FastAPI**, **LlamaIndex**, and a **React + Tailwind + shadcn/ui** frontend.
+
+![Edrak Eemo](demo.gif)
 
 ---
 
