@@ -2,7 +2,7 @@
 
 A full-stack AI-powered platform for **document understanding**, **knowledge graph visualization**, and **intelligent chat interaction** — built with **FastAPI**, **LlamaIndex**, and a **React + Tailwind + shadcn/ui** frontend.
 
-![Edrak Eemo](demo.gif)
+<img src="demo.gif" alt="Edrak Demo" width="800"/>
 
 ---
 
